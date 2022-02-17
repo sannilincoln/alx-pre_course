@@ -1,8 +1,10 @@
 
 git commands to push from local to remote respository
 
-1. git add <file name>
+1. git pull origin <remote origin>
 
-2 git commit -m 'commit message'
+2. git add <file name>
 
-3 git push origin <branch name>
+3. git commit -m 'commit message'
+
+4. git push origin <branch name>
